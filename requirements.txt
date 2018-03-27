@@ -1,0 +1,7 @@
+Pillow==3.3.1
+google-api-python-client==1.6.2
+google-cloud-storage==1.6.0
+redis==2.10.6
+stylelens-crawl-amazon==0.0.64
+stylelens-product==1.0.94
+bluelens-log==1.0.2
