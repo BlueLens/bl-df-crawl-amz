@@ -61,7 +61,7 @@ PyVCF==0.6.8
 PyYAML==3.12
 redis==2.10.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 six==1.11.0
 stylelens-crawl-amazon==0.0.63
 stylelens-product==1.0.91
