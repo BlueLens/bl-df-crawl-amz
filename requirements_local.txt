@@ -66,7 +66,7 @@ six==1.11.0
 stylelens-crawl-amazon==0.0.63
 stylelens-product==1.0.91
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.5.0
 tensorflow-transform==0.5.0
 termcolor==1.1.0
 typing==3.6.4
